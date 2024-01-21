@@ -1,0 +1,11 @@
+.titolo{
+  display: flex;
+  justify-content: center;
+    color:aquamarine;
+}
+
+
+
+body{
+    background-color: rgb(19, 86, 108)!important;
+}
